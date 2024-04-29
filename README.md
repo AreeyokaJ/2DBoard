@@ -1,0 +1,1 @@
+This is the final coding challenge of the Spring semester 2024 computer science club. The code prompts the user to enter a 2D board, along with a target word. If the target word exists within board it will return true, if it does not exist within board it will return false.
